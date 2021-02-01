@@ -1,0 +1,7 @@
+*.gz*
+__pycache__
+*.pb
+variables
+.idea
+data
+output.txt
